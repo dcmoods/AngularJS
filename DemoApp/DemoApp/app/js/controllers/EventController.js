@@ -13,7 +13,8 @@ eventsApp.controller('EventController',
                 address: '123 Main Street',
                 city: 'Mountain View',
                 province: 'CA'
-            }
+            },
+            imageUrl: '/img/angularjs-logo.png'
         }
 
 
